@@ -1,0 +1,7 @@
+
+Sec5_Movies_PostgreSQL/.env
+Sec6_PollProject/.env
+*.pyc
+*.xml
+*.pyc
+Sec3_Journal_w_Python_SQLite/__pycache__/database.cpython-38.pyc
